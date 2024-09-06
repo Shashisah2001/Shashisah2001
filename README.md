@@ -5,10 +5,11 @@
 - 💞️ I’m looking to collaborate on open-source projects related to web development, especially those involving the MERN stack.
 - 📫 How to reach me: 
   - Email:- shashisah2001@gmail.com
-  - LinkedIn:-[in/shashi-kumar-sah]
-  - IG: [/shashisah1002]
 
 - ⚡ Fun fact: I love singing and going on trekking adventures! 🎶🏞️
+  Social Media
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-kumar-sah)
+- IG: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shashisah1002)
 
 ---
 
