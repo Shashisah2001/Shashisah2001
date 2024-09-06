@@ -1,4 +1,4 @@
-#                                                          👋 Hi, I’m Shashi Kumar Sah
+  #                                             👋 Hi, I’m Shashi Kumar Sah
 
 - 👀 I’m interested in full-stack web development and UI/UX design.
 - 🌱 I’m currently learning advanced concepts of React, Node.js, and exploring Next.js.
@@ -12,7 +12,7 @@
 
 Connect with me:-
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-kumar-sah)
-   - IG: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shashisah1002)
+- Instagram: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shashisah1002)
 ### Tech Stack 💻:
 Here are some technologies I work with:
 
@@ -27,7 +27,7 @@ Here are some technologies I work with:
 Apart from coding, I enjoy:
 - 🎤 Singing
 - 🏞️ Trekking and travelling
-- 🎮 Playing video games
+
 
 <!---
 Shashisah2001/Shashisah2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
