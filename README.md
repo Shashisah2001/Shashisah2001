@@ -7,12 +7,12 @@
   - Email:- shashisah2001@gmail.com
 
 - ⚡ Fun fact: I love singing and going on trekking adventures! 🎶🏞️
-  Social Media
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-kumar-sah)
-- IG: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shashisah1002)
 
 ---
 
+Connect with me:-
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-kumar-sah)
+   - IG: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shashisah1002)
 ### Tech Stack 💻:
 Here are some technologies I work with:
 
